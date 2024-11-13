@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "291914478016",
+    "project_id": "fir-sigin-cef53",
+    "storage_bucket": "fir-sigin-cef53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291914478016:android:72e2fec39a30d3383a9825",
+        "android_client_info": {
+          "package_name": "com.example.flutter_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291914478016-vlqsl5hdcv69gcebfhetb3qvsm2mda3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_signin",
+            "certificate_hash": "3a1ad96b211a7df03dd4ecdcae1d3cf8b726ef40"
+          }
+        },
+        {
+          "client_id": "291914478016-cvo16skvulra290rf9lb1p1p34ob0f7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJsQTruhWM-gqUw_VGqxvDdaZ6FUDzLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291914478016-cvo16skvulra290rf9lb1p1p34ob0f7s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291914478016-aqfrp9ne7s66hqv51j6dlptse4nlc6jl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterSignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
